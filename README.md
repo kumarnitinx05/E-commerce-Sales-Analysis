@@ -131,7 +131,7 @@ E-commerce-Sales-Analysis/
 │
 ├── index.html          # Main dashboard interface
 ├── styles.css          # Dashboard styling
-├── script.js           # Dashboard logic and interactivity
+├── app.js           # Dashboard logic and interactivity
 ├── online_retail.csv   # Retail transaction dataset
 └── README.md           # Project documentation
 ```
@@ -153,20 +153,9 @@ E-commerce-Sales-Analysis/
 
 ## 📸 Dashboard Preview
 
-Add a screenshot of your dashboard here to help visitors understand the project before running it.
+## 📸 Dashboard Preview
 
-```text
-screenshots/
-└── dashboard.png
-```
-
-After adding the screenshot to your repository, display it using:
-
-```markdown
 ![E-commerce Sales Analysis Dashboard](screenshots/dashboard.png)
-```
-
----
 
 ## 🔮 Future Enhancements
 
