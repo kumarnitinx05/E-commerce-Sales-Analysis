@@ -29,4 +29,4 @@ UCI Online Retail dataset (`online_retail.csv`). Revenue is calculated as quanti
 HTML, CSS, JavaScript, Chart.js
 
 ## Author
-Nitin Kumar, BTech CSE (AIML), Amity University Jharkhand
+Nitin Kumar & Prince kumar  BTech CSE (AIML), Amity University Jharkhand
